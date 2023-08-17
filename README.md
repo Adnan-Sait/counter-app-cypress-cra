@@ -1,5 +1,7 @@
 # A simple counter-App using [React.js](https://reactjs.org)
 
+**The project was created for this blog article - [React E2E Testing: Cypress Code Coverage Setup | Medium](https://medium.com/@adnansait74/code-coverage-with-cypress-cra-2c7946d5f6b9)**
+
 > **This tiny application is like adding,removing,deleting, resetting products which reflects in the total number of products into our shopping cart.**
 
 **This is a very basic app but useful to understand the React Components, states, Data Flow, parent to child etc. .**
