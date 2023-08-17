@@ -16,6 +16,7 @@
 /// <reference types="cypress" />
 // Import commands.js using ES2015 syntax:
 import "./commands";
+import "@cypress/code-coverage/support";
 import "../../src/index.css";
 import "bootstrap/dist/css/bootstrap.css";
 import "font-awesome/css/font-awesome.css";
